@@ -54,7 +54,7 @@ All infrastructure (except the remote state bucket) is created and destroyed wit
 
 ### Terraform aaply (initial create)
 
-<img width="540" height="144" alt="image" src="https://github.com/user-attachments/assets/9a66d46a-5dad-48ea-9a98-69e6f4d5af51" />
+<img width="900" height="200" alt="image" src="https://github.com/user-attachments/assets/9a66d46a-5dad-48ea-9a98-69e6f4d5af51" />
 
 ### VM in GCP
 
@@ -64,9 +64,9 @@ All infrastructure (except the remote state bucket) is created and destroyed wit
 
 ### Modifying Resources (machine type, labels and added "allow_stopping_for_update")
 
-<img width="396" height="324" alt="image" src="https://github.com/user-attachments/assets/614844ee-96af-40b8-b0b4-5696043f4fdb" />
+<img width="450" height="324" alt="image" src="https://github.com/user-attachments/assets/614844ee-96af-40b8-b0b4-5696043f4fdb" />
 
-<img width="434" height="95" alt="image" src="https://github.com/user-attachments/assets/82beb50e-3a6a-4746-8031-edca80d50f28" />
+<img width="900" height="200" alt="image" src="https://github.com/user-attachments/assets/82beb50e-3a6a-4746-8031-edca80d50f28" />
 
 ### Buckets in GCP
 
