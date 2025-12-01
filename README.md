@@ -58,9 +58,9 @@ All infrastructure (except the remote state bucket) is created and destroyed wit
 
 ### VM in GCP
 
-<img width="540" height="75" alt="image" src="https://github.com/user-attachments/assets/6a1b0380-9766-47cf-8c70-3fd8eb0424c5" />
+<img width="900" height="200" alt="image" src="https://github.com/user-attachments/assets/6a1b0380-9766-47cf-8c70-3fd8eb0424c5" />
 
-<img width="431" height="200" alt="image" src="https://github.com/user-attachments/assets/cef91f54-0db3-4dd0-a3ea-5aecc4ad1823" />
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/cef91f54-0db3-4dd0-a3ea-5aecc4ad1823" />
 
 ### Modifying Resources (machine type, labels and added "allow_stopping_for_update")
 
