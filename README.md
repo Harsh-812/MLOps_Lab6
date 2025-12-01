@@ -70,7 +70,7 @@ All infrastructure (except the remote state bucket) is created and destroyed wit
 
 ### Buckets in GCP
 
-<img width="427" height="112" alt="image" src="https://github.com/user-attachments/assets/83754903-2de4-4e33-b71f-4d9f96a88844" />
+<img width="900" height="250" alt="image" src="https://github.com/user-attachments/assets/83754903-2de4-4e33-b71f-4d9f96a88844" />
 
 ### Destroying Resources
 
